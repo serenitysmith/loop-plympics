@@ -86,3 +86,5 @@ const peopleArray = [
   // ["Singer", "Entertainer"] // occupations
   //+ users[i].age
   
+
+  //push
